@@ -1,3 +1,5 @@
+// Lab work 1: Rectangle calculator
+// Lab work 1: Rectangle calculator
 #include <iostream>
 #include <cmath>
 using namespace std;
